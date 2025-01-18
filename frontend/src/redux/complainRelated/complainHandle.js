@@ -1,6 +1,6 @@
 import axios from 'axios';
 import {
-    getRequest,
+    getRequest,cmc,
     getSuccess,
     getFailed,
     getError
